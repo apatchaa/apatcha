@@ -3,16 +3,16 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>MyResume Bootstrap Template - Index</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <title>Apatcha Kotsee's RESUME</title>
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
       rel="stylesheet">
+    <meta name="author" content="Apatcha Kotsee">
+    <meta name="description" content="Apatcha Kotsee's Resume and About Fact such as Education and Experience">
+    <meta name="keywords" content="Apatcha Kotsee, RESUME, Web Designer, ABOUT, SKILLS, FACT">
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/aos/aos.css" rel="stylesheet">
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -25,7 +25,8 @@
     <!-- =======================================================
   * Template Name: MyResume - v4.9.2  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/  * Author: BootstrapMade.com  * License: https://bootstrapmade.com/license/  ======================================================== -->
   </head>
-  <body> <!-- ======= Mobile nav toggle button ======= -->
+  <body>
+    <!-- ======= Mobile nav toggle button ======= -->
     <!-- <button type="button" class="mobile-nav-toggle d-xl-none"><i class="bi bi-list mobile-nav-toggle"></i></button> -->
     <!-- ======= Header ======= -->
     <header id="header" class="d-flex flex-column justify-content-center">
@@ -67,9 +68,8 @@
               study.</p>
           </div>
           <div class="row">
-            <div class="col-lg-4"> <img src="assets/img/1.jpg" class="img-fluid"
-
-                alt=""> </div>
+            <div class="col-lg-4"> <img src="assets/img/1.jpg" class="img-fluid"
+                alt="Apatcha Kotsee in School Uniform"> </div>
             <div class="col-lg-8 pt-4 pt-lg-0 content">
               <h3>Student of the Faculty of Arts, majoring in Infolibrary,
                 Chinese minor study.</h3>
@@ -115,33 +115,27 @@
           </div>
           <div class="row">
             <div class="col-lg-3 col-md-6">
-              <div class="count-box"> <i class="bi bi-emoji-smile"></i><span data-purecounter-start="0"
-
+              <div class="count-box"> <i class="bi bi-emoji-smile"></i><span data-purecounter-start="0"
                   data-purecounter-end="172" data-purecounter-duration="1" class="purecounter"></span>
                 <p>Happy Clients</p>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
-              <div class="count-box"> <i class="bi bi-journal -richtext"></i> <span
-
-                  data-purecounter-start="0" data-purecounter-end="45" data-purecounter-duration="1"
-
+              <div class="count-box"> <i class="bi bi-journal -richtext"></i> <span
+                  data-purecounter-start="0" data-purecounter-end="45" data-purecounter-duration="1"
                   class="purecounter"></span>
                 <p>English Projects</p>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-              <div class="count-box"> <i class="bi bi-journal -richtext"></i><span
-
-                  data-purecounter-start="0" data-purecounter-end="21" data-purecounter-duration="1"
-
+              <div class="count-box"> <i class="bi bi-journal -richtext"></i><span
+                  data-purecounter-start="0" data-purecounter-end="21" data-purecounter-duration="1"
                   class="purecounter"></span>
                 <p>Chinese Project</p>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-              <div class="count-box"> <i class="bi bi-headset"></i><span data-purecounter-start="0"
-
+              <div class="count-box"> <i class="bi bi-headset"></i><span data-purecounter-start="0"
                   data-purecounter-end="5184" data-purecounter-duration="1" class="purecounter"></span>
                 <p>Hours Of Support</p>
               </div>
@@ -164,57 +158,49 @@
             <div class="col-lg-8">
               <div class="progress"> <span class="skill">Microsoft365<i class="val">90%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="90"
-
+                  <div class="progress-bar" role="progressbar" aria-valuenow="90"
                     aria-valuemin="0" aria-valuemax="100" style="width: 0%;"> </div>
                 </div>
               </div>
               <div class="progress"> <span class="skill">HTML <i class="val">90%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="90"
-
+                  <div class="progress-bar" role="progressbar" aria-valuenow="90"
                     aria-valuemin="0" aria-valuemax="100" style="width: 0%;"> </div>
                 </div>
               </div>
               <div class="progress"> <span class="skill">CSS <i class="val">75%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="75"
-
+                  <div class="progress-bar" role="progressbar" aria-valuenow="75"
                     aria-valuemin="0" aria-valuemax="100" style="width: 0%;"> </div>
                 </div>
               </div>
               <div class="progress"> <span class="skill">JavaScript <i class="val">90%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="90"
-
+                  <div class="progress-bar" role="progressbar" aria-valuenow="90"
                     aria-valuemin="0" aria-valuemax="100" style="width: 0%;"> </div>
                 </div>
               </div>
               <div class="progress"> <span class="skill">Photoshop <i class="val">75%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="75"
-
+                  <div class="progress-bar" role="progressbar" aria-valuenow="75"
                     aria-valuemin="0" aria-valuemax="100" style="width: 0%;"> </div>
                 </div>
               </div>
               <div class="progress"> <span class="skill">Thai language <i class="val">100%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="100"
-
+                  <div class="progress-bar" role="progressbar" aria-valuenow="100"
                     aria-valuemin="0" aria-valuemax="100" style="width: 0%;"> </div>
                 </div>
               </div>
               <div class="progress"> <span class="skill">English language <i class="val">75%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="75"
-
+                  <div class="progress-bar" role="progressbar" aria-valuenow="75"
                     aria-valuemin="0" aria-valuemax="100" style="width: 0%;"> </div>
                 </div>
               </div>
               <div class="progress"> <span class="skill">Chinese language <i class="val">75%</i></span>
                 <div class="progress-bar-wrap">
-                  <div class="progress-bar" role="progressbar" aria-valuenow="75"
-
+                  <div class="progress-bar" role="progressbar" aria-valuenow="75"
                     aria-valuemin="0" aria-valuemax="100" style="width: 0%;"> </div>
                 </div>
               </div>
@@ -318,8 +304,7 @@
               doing better.</p>
           </div>
           <div class="row">
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in"
-
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in"
               data-aos-delay="100">
               <div class="icon-box iconbox-blue">
                 <div class="icon">
@@ -331,8 +316,7 @@
                   books, and English books. That makes me understand more words.</p>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0"
-
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0"
               data-aos="zoom-in" data-aos-delay="200">
               <div class="icon-box iconbox-orange ">
                 <div class="icon">
@@ -344,8 +328,7 @@
                   English to improve grammar and creativity. </p>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0"
-
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0"
               data-aos="zoom-in" data-aos-delay="300">
               <div class="icon-box iconbox-pink">
                 <div class="icon">
@@ -358,8 +341,7 @@
               </div>
             </div>
             <div class="col-lg-2"> </div>
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
-
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
               data-aos-delay="100">
               <div class="icon-box iconbox-yellow">
                 <div class="icon">
@@ -371,8 +353,7 @@
                   to speak more fluently.</p>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
-
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in"
               data-aos-delay="200">
               <div class="icon-box iconbox-red">
                 <div class="icon">
@@ -398,9 +379,8 @@
           <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
-                <div class="testimonial-item"> <img src="assets/img/testimonials/pink.jpg"
-
-                    class="testimonial-img" alt="">
+                <div class="testimonial-item"> <img src="assets/img/testimonials/pink.jpg"
+                    class="testimonial-img" alt="A girl taking photo with baeutiful sky in the morning">
                   <h3>Wilasinee Seephonngeon</h3>
                   <h4>Bachelor of Engineering Electronics and Computer System</h4>
                   <p> She is the older sister of the child that I teach Chinese
@@ -411,9 +391,8 @@
               </div>
               <!-- End testimonial item -->
               <div class="swiper-slide">
-                <div class="testimonial-item"> <img src="assets/img/testimonials/aom.jpg"
-
-                    class="testimonial-img" alt="">
+                <div class="testimonial-item"> <img src="assets/img/testimonials/aom.jpg"
+                    class="testimonial-img" alt="A girl with blue knitted hat and purple T-shirt in cafe">
                   <h3>Panvasa Phonwongsa</h3>
                   <h4>Bachelor of Science Program in Information Technology.</h4>
                   <p> She is the older sister of the child that I teach Chinese
@@ -424,9 +403,8 @@
               </div>
               <!-- End testimonial item -->
               <div class="swiper-slide">
-                <div class="testimonial-item"> <img src="assets/img/testimonials/poy.jpg"
-
-                    class="testimonial-img" alt="">
+                <div class="testimonial-item"> <img src="assets/img/testimonials/poy.jpg"
+                    class="testimonial-img" alt="A girl in School Uniform is smiling">
                   <h3>Premmanee Kaewthep</h3>
                   <h4>Bachelor of School of Nursing</h4>
                   <p> She is the older sister of the child that I teach English
@@ -436,14 +414,13 @@
               </div>
               <!-- End testimonial item -->
               <div class="swiper-slide">
-                <div class="testimonial-item"> <img src="assets/img/testimonials/pom.jpg"
-
-                    class="testimonial-img" alt="">
+                <div class="testimonial-item"> <img src="assets/img/testimonials/pom.jpg"
+                    class="testimonial-img" alt="A girl in School Uniform is smiling">
                   <h3>Phannipa Sanphanlam</h3>
                   <h4>Bachelor of Law</h4>
                   <p> She is the older sister of the child that I teach Chinese
-                    and English to. Nowadays she's a student of Law at Chiangrai
-                    University, majoring in Bachelor of Laws. </p>
+                    and English to. Nowadays she's a student of Law at Mae Fah
+                    Lung University, majoring in Bachelor of Laws. </p>
                 </div>
               </div>
               <!-- End testimonial item --> </div>
@@ -478,22 +455,17 @@
             <div class="col-lg-8 mt-5 mt-lg-0">
               <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                 <div class="row">
-                  <div class="col-md-6 form-group"> <input name="name" class="form-control"
-
+                  <div class="col-md-6 form-group"> <input name="name" class="form-control"
                       id="name" placeholder="Your Name" required="" type="text">
                   </div>
-                  <div class="col-md-6 form-group mt-3 mt-md-0"> <input class="form-control"
-
-                      name="email" id="email" placeholder="Your Email" required=""
-
+                  <div class="col-md-6 form-group mt-3 mt-md-0"> <input class="form-control"
+                      name="email" id="email" placeholder="Your Email" required=""
                       type="email"> </div>
                 </div>
-                <div class="form-group mt-3"> <input class="form-control" name="subject"
-
+                <div class="form-group mt-3"> <input class="form-control" name="subject"
                     id="subject" placeholder="Subject" required="" type="text">
                 </div>
-                <div class="form-group mt-3"> <textarea class="form-control" name="message"
-
+                <div class="form-group mt-3"> <textarea class="form-control" name="message"
 rows="5" placeholder="Message" required=""></textarea> </div>
                 <div class="my-3">
                   <div class="loading">Loading</div>
