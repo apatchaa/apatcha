@@ -10,7 +10,9 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #3E3E3E;
+  background-color: #FFFFFF;
+  background-repeat: no-repeat;
 }
 
 a {
@@ -380,7 +382,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #45505b;
+  color: #055199;
 }
 
 .section-title h2::before {
@@ -415,7 +417,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #728394;
+  color: #45505B;
 }
 
 .about .content ul {
@@ -969,9 +971,9 @@ section {
 }
 
 .testimonials .testimonial-item h4 {
-  font-size: 14px;
-  color: #999;
-  margin: 0 0 15px 0;
+  font-size: 13px;
+  color: #111111;
+  margin: 0 0 13px 0;
 }
 
 .testimonials .testimonial-item .quote-icon-left,
@@ -995,7 +997,8 @@ section {
 
 .testimonials .testimonial-item p {
   font-style: italic;
-  margin: 0 auto 15px auto;
+  margin: 0 auto 20px auto;
+  color: #111111;
 }
 
 .testimonials .swiper-pagination {
